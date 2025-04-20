@@ -53,5 +53,3 @@ Proudly open-source under the MIT License.
   <p>With <strong>ZVO-VoiceChanger</strong>, your audio becomes a masterpiece. Dive in, experiment, and let your creativity soar! 🚀</p>
   <a href="https://github.com/username/ZVO-VoiceChanger/releases"><img src="https://img.shields.io/badge/Download-Latest%20Release-brightgreen.svg?style=for-the-badge" alt="Download Latest Release"></a>
 </div>
-
-Need more flair or specific tweaks? Just let me know! 😊
